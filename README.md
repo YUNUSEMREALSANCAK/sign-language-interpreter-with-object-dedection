@@ -8,6 +8,12 @@ Bu proje, YOLOv8 kullanarak 10 kelimeyi tanıyan bir işaret dili tercümanı ge
 
 Modelin eğitimi, 100 epoch boyunca Google Colab üzerinde gerçekleştirilmiştir. Eğitim sürecinde elde edilen sonuçlar ve modelin performansı aşağıda detaylandırılmıştır.
 
+## Veri Seti
+
+Proje için kullanılan veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+[İşaret Dili Veri Seti - Kaggle](https://www.kaggle.com/datasets/yunusemrealsancak/sign-language-dataset)
+
 ## İlk Denemeler
 
 Projenin ilk aşamalarında yapılan denemeler aşağıda gösterilmiştir:
@@ -26,11 +32,7 @@ Projenin KNN algoritması ile yapılan değerlendirmesi aşağıda gösterilmiş
 
 ![KNN](https://github.com/YUNUSEMREALSANCAK/sign-language-interpreter-with-object-dedection/blob/main/knn.jpeg)
 
-## Veri Seti
 
-Proje için kullanılan veri setine aşağıdaki bağlantıdan ulaşabilirsiniz:
-
-[İşaret Dili Veri Seti - Kaggle](https://www.kaggle.com/datasets/yunusemrealsancak/sign-language-dataset)
 
 ## Kullanım
 
